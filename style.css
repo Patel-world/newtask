@@ -1,0 +1,13 @@
+.row.row-cols-1.row-cols-md-3.g-4 {
+    margin: 2rem;
+}
+.container-fluid {
+    margin: 1rem 3rem;
+}
+.footer-copyright.text-center.text-black-50.py-3 {
+    background-color: rgba(0,0,0,0.2);
+}
+a.dark-grey-text {
+    text-decoration: blink;
+    color: darkslateblue;
+}
